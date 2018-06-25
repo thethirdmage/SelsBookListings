@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sel\'s Book Listings</string>
+    <string name="no_results">No books found \n matching your query.</string>
+    <string name="no_connection">No internet connection.</string>
+    <string name="search_books">Search Books</string>
+    <string name="search">Search</string>
+    <string name="pic">Book cover art</string>
+</resources>
